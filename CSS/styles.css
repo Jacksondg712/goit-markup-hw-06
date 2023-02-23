@@ -134,6 +134,14 @@ button:focus{
     fill: #EEEEEE;
 }
 
+.footer{
+    fill:rgba(255, 255, 255, 0.1);
+}
+
+.footer:hover, .footer:focus{
+    fill: #2196F3;
+}
+
 
 
 .boder:hover{
